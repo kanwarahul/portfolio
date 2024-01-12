@@ -3,14 +3,14 @@
 ### Project 1 
 Details...
 
-### project 2
+### Project 2
 Details...
 
-### project 3
+### Project 3
 Details...
 
-### project 4
+### Project 4
 Details...
 
-### project 5
+### Project 5
 Details...
