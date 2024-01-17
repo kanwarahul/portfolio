@@ -2,8 +2,8 @@
 #### Technical Skills: Python, SQL, Git, Excel, Tableau, Power BI, MySQL
 
 ## Education 
-- Bachelor of Engineering | Electronics & Electrical Engineering | Medi-Caps University, Indore
-- Master of Business Administration | Marketing Management | Welingkar, Mumbai
+- B.E.(_Electronics & Electrical Engineering_) | Medi-Caps University, Indore
+- MBA(_Marketing Management_) | Welingkar, Mumbai
 
 ## Work Experience 
 ### Marketing Analyst 
