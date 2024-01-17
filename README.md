@@ -1,4 +1,5 @@
 # Data Analyst 
+### Technical Skills: Python, SQL, Git, Excel, Tableau, Power BI, MySQL
 
 ## Education 
 - BE, Electronics & Electrical Engineering   Medi-Caps University, Indore
