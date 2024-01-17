@@ -7,10 +7,19 @@
 
 ## Work Experience 
 **Marketing Analyst | Remote Professional | (_2016 - Present_)** 
+- ahsdbakjshd
+- asdakjsdhbakjh
+- asdahsdgvajsghdv
 
 **Area Sales Manager | Magicbricks Realty Services | (_2015 - 2016_)**
+- kasjbajhfbjadhbfjha
+- alsdasdbaljskdhbalsdbh
+- alsdbasdhbajsbhdajsdbhj
 
 **Systems Engineer | Tata Consultancy Services | (_2010 - 2012_)**
+- asjdhabkdjsabh
+- akjsdalsdbalsdblasdb
+- s;jdvnslkfbslkfvlsfhb
 
 
 ## Projects 
