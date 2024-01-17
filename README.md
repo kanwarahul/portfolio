@@ -4,6 +4,12 @@
 - BE, Electronics & Electrical Engineering   Medi-Caps University, Indore
 - MBA, Marketing Management   Welingkar, Mumbai
 
+## Work Experience 
+### Marketing Analyst 
+### Area Sales Manager 
+### Systems Engineer 
+
+## Projects 
 ### Project 1 
 Details...
 
