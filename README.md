@@ -1,5 +1,9 @@
 # Data Analyst 
 
+## Education 
+- BE, Electronics & Electrical Engineering   Medi-Caps University, Indore
+- MBA, Marketing Management   Welingkar, Mumbai
+
 ### Project 1 
 Details...
 
