@@ -23,17 +23,33 @@
 
 
 ## Projects 
-### Project 1 
+### Chicago Bike Share System (Python Analysis) 
+[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
+
 Details...
 
-### Project 2
+### Charts & Dashboards in MS Excel
+[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
+
 Details...
 
-### Project 3
+### Analysis of Top 10 Billionaires in the Past 3 Decades
+[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
+
 Details...
 
-### Project 4
+### Sales Data Analysis for a Multi-Location Convineint Store
+[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
+
 Details...
 
-### Project 5
+### Tableau Dashboard for a Bike Sharing App
+[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
+
 Details...
+
+### Data Visualization Using Python for Sales Data 
+[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
+
+Details...
+
