@@ -24,7 +24,7 @@
 
 ## Projects 
 ### Chicago Bike Share System (Python Analysis) 
-[Github](www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
+[Github](https://www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
 
 Details...
 
