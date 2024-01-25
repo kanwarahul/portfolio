@@ -23,27 +23,52 @@ with correct insights to enable them to increase thier customer base. Analysis i
 <br>
 
 ### Charts & Dashboards in MS Excel
-[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
-
-Details...
+![Bike in a city](/assets/images/bike_in_city_case_study.jpg)
+Healthy lifestyle has now become a popular choice by many city dwellers. Cycling is an activity 
+which provides excercise, minimizes carbon footprint and reduces road traffic congestions. 
+Here, we analyze data from a Chicago based bike share co. with an aim to help the marketing team 
+with correct insights to enable them to increase thier customer base. Analysis is done using Python.<br>
+[Github](https://www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)<br>
+---
+<br>
 
 ### Analysis of Top 10 Billionaires in the Past 3 Decades
-[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
-
-Details...
+![Bike in a city](/assets/images/bike_in_city_case_study.jpg)
+Healthy lifestyle has now become a popular choice by many city dwellers. Cycling is an activity 
+which provides excercise, minimizes carbon footprint and reduces road traffic congestions. 
+Here, we analyze data from a Chicago based bike share co. with an aim to help the marketing team 
+with correct insights to enable them to increase thier customer base. Analysis is done using Python.<br>
+[Github](https://www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)<br>
+---
+<br>
 
 ### Sales Data Analysis for a Multi-Location Convineint Store
-[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
-
-Details...
+![Bike in a city](/assets/images/bike_in_city_case_study.jpg)
+Healthy lifestyle has now become a popular choice by many city dwellers. Cycling is an activity 
+which provides excercise, minimizes carbon footprint and reduces road traffic congestions. 
+Here, we analyze data from a Chicago based bike share co. with an aim to help the marketing team 
+with correct insights to enable them to increase thier customer base. Analysis is done using Python.<br>
+[Github](https://www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)<br>
+---
+<br>
 
 ### Tableau Dashboard for a Bike Sharing App
-[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
-
-Details...
+![Bike in a city](/assets/images/bike_in_city_case_study.jpg)
+Healthy lifestyle has now become a popular choice by many city dwellers. Cycling is an activity 
+which provides excercise, minimizes carbon footprint and reduces road traffic congestions. 
+Here, we analyze data from a Chicago based bike share co. with an aim to help the marketing team 
+with correct insights to enable them to increase thier customer base. Analysis is done using Python.<br>
+[Github](https://www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)<br>
+---
+<br>
 
 ### Data Visualization Using Python for Sales Data 
-[Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
-
-Details...
+![Bike in a city](/assets/images/bike_in_city_case_study.jpg)
+Healthy lifestyle has now become a popular choice by many city dwellers. Cycling is an activity 
+which provides excercise, minimizes carbon footprint and reduces road traffic congestions. 
+Here, we analyze data from a Chicago based bike share co. with an aim to help the marketing team 
+with correct insights to enable them to increase thier customer base. Analysis is done using Python.<br>
+[Github](https://www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)<br>
+---
+<br>
 
