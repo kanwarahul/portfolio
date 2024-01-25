@@ -6,9 +6,9 @@
 - MBA (_Marketing Management_) | Welingkar Institute at Mumbai
 
 ## Work Experience 
-**Marketing Analyst | Remote Professional | (_2016 - Present_)** 
-**Area Sales Manager | Magicbricks Realty Services | (_2015 - 2016_)**
-**Systems Engineer | Tata Consultancy Services | (_2010 - 2012_)**
+**Marketing Analyst | Remote Professional | (_2016 - Present_)**<br> 
+**Area Sales Manager | Magicbricks Realty Services | (_2015 - 2016_)**<br>
+**Systems Engineer | Tata Consultancy Services | (_2010 - 2012_)**<br>
 
 
 ## Projects 
