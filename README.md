@@ -13,6 +13,7 @@
 
 ## Projects 
 ### Chicago Bike Share System (Python Analysis) 
+![Bike in a city](/assets/images/bike_in_city_case_study.jpg)
 [Github](https://www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
 
 Details...
