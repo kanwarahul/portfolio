@@ -14,11 +14,11 @@
 ## Projects 
 ### Chicago Bike Share System (Python Analysis) 
 ![Bike in a city](/assets/images/bike_in_city_case_study.jpg)
-Details...
-Details...
-Details...
-Details...
-Details...<br>
+Healthy lifestyle has now become a popular choice by many city dwellers. Cycling is an activity <br>
+which provides excercise, minimizes carbon footprint and reduces road traffic congestions. <br>
+Here, we analyze data from a Chicago based bike share co. with an aim to help the marketing team <br>
+with correct insights to enable them to increase thier customer base. Analysis is done using Python. 
+<br>
 [Github](https://www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)<br>
 ---
 <br>
