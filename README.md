@@ -20,7 +20,8 @@ Details...
 Details...
 Details...<br>
 [Github](https://www.google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)<br>
----<br>
+---
+<br>
 
 ### Charts & Dashboards in MS Excel
 [Github](google.com) | [Kaggle](google.com) | [Medium](google.com) | [DataSciencePortfolio](google.com)
